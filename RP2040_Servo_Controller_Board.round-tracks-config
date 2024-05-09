@@ -1,0 +1,9 @@
+Default	True	2.0	3
+AnalogInput	True	2.0	3
+AnalogPower	True	2.0	3
+PWMSignal	True	2.0	3
+Power	True	2.0	3
+SerialCommunication	True	2.0	3
+Signal	True	2.0	3
+SignalBus	True	2.0	3
+False	True	False
