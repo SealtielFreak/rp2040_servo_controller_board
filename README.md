@@ -1,1 +1,2 @@
-# rp2040_servo_controller_board
+# Servo Controller Board
+Servo Controller Board for Raspberry Pi Pico
